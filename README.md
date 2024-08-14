@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heyfronx.
 - 👀 I’m interested in coding and content writing.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C and C++ language.
 - ⚡ Fun fact: Keep on smiling.
 
 <!---
